@@ -1,5 +1,5 @@
 {
-  "homepage": "jaanreymond.github.io/todo-list-v2",
+  "homepage": "https://jaanreymond.github.io/todo-list-v2",
   "name": "todo-list-v2",
   "version": "0.1.0",
   "private": true,
@@ -40,6 +40,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.2.0"
   }
 }
